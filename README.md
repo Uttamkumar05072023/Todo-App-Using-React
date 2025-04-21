@@ -6,7 +6,7 @@ A simple and responsive Todo application built with **React**. This app allows u
 
 ## 🔗 Live Demo
 
-👉 [Click here to check out the live demo](https://uttamkumar05072023.github.io/Todo-App-Using-React/)
+👉 [Click here to check out the live demo](https://todo-web-appp.netlify.app/)
 
 ---
 
@@ -23,22 +23,22 @@ A simple and responsive Todo application built with **React**. This app allows u
 ## 📁 Project Structure
 
 Todo-App-Using-React/ 
-├── public/ 
-├── src/
-    └── assets/
-    └── components/
-        └── Body.jsx
-        └── Navbar.jsx
-    └── App.jsx 
-    └── Index.css 
-    └── main.jsx 
-├── .gitignore 
-├── eslint.config.js
-├── index.html
-├── package-lock.json
-├── package.json
-├── README.md
-├── vite.config.js
+├── public/ <br/>
+├── src/<br/>
+    └── assets/<br/>
+    └── components/<br/>
+        └── Body.jsx<br/>
+        └── Navbar.jsx<br/>
+    └── App.jsx <br/>
+    └── Index.css <br/>
+    └── main.jsx <br/>
+├── .gitignore <br/>
+├── eslint.config.js<br/>
+├── index.html<br/>
+├── package-lock.json<br/>
+├── package.json<br/>
+├── README.md<br/>
+├── vite.config.js<br/>
 
 ---
 
@@ -47,7 +47,7 @@ Todo-App-Using-React/
 - **React** – Front-end JavaScript library
 - **HTML5** & **CSS3** & **Tailwind CSS** – For UI structure and styling
 - **JavaScript** – Logic and interactivity
-- **GitHub Pages** – Deployment
+- **Netlify** – Deployment
 
 ---
 
@@ -66,8 +66,6 @@ To run this project locally:
 3. **Install dependencies**
     ```bash
     npm install
-    
-    hello
 
 4. **Run the development server**
     ```bash
