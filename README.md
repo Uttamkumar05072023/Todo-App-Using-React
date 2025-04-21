@@ -60,10 +60,13 @@ To run this project locally:
    git clone https://github.com/Uttamkumar05072023/Todo-App-Using-React.git
 
 2. **Navigate to the project directory**
+    ```bash
     cd Todo-App-Using-React
 
 3. **Install dependencies**
+    ```bash
     npm install
 
 4. **Run the development server**
+    ```bash
     npm run dev
