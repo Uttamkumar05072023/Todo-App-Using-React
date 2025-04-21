@@ -1,0 +1,69 @@
+# 📝 Todo App Using React
+
+A simple and responsive Todo application built with **React**. This app allows users to manage their tasks efficiently by adding, deleting, and marking tasks as complete. It demonstrates the core concepts of React such as components, state management, and conditional rendering.
+
+---
+
+## 🔗 Live Demo
+
+👉 [Click here to check out the live demo](https://uttamkumar05072023.github.io/Todo-App-Using-React/)
+
+---
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- ❌ Delete tasks
+- 🔁 Mark tasks as completed
+- 🌙 Light and clean UI
+- ⚛️ Built with React functional components and hooks
+
+---
+
+## 📁 Project Structure
+
+Todo-App-Using-React/ 
+├── public/ 
+├── src/
+    └── assets/
+    └── components/
+        └── Body.jsx
+        └── Navbar.jsx
+    └── App.jsx 
+    └── Index.css 
+    └── main.jsx 
+├── .gitignore 
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── vite.config.js
+
+---
+
+## 🛠️ Technologies Used
+
+- **React** – Front-end JavaScript library
+- **HTML5** & **CSS3** & **Tailwind CSS** – For UI structure and styling
+- **JavaScript** – Logic and interactivity
+- **GitHub Pages** – Deployment
+
+---
+
+## 📦 Installation
+
+To run this project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Uttamkumar05072023/Todo-App-Using-React.git
+
+2. **Navigate to the project directory**
+    cd Todo-App-Using-React
+
+3. **Install dependencies**
+    npm install
+
+4. **Run the development server**
+    npm run dev
