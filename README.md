@@ -66,6 +66,7 @@ To run this project locally:
 3. **Install dependencies**
     ```bash
     npm install
+    hello
 
 4. **Run the development server**
     ```bash
