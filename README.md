@@ -22,23 +22,23 @@ A simple and responsive Todo application built with **React**. This app allows u
 
 ## 📁 Project Structure
 
-Todo-App-Using-React/ 
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Body.jsx
-│   │   └── Navbar.jsx
-│   ├── App.jsx
-│   ├── Index.css
-│   └── main.jsx
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package-lock.json
-├── package.json
-├── README.md
-├── vite.config.js
+Todo-App-Using-React/ <br/>
+├── public/<br/>
+├── src/<br/>
+│   ├── assets/<br/>
+│   ├── components/<br/>
+│   │   ├── Body.jsx<br/>
+│   │   └── Navbar.jsx<br/>
+│   ├── App.jsx<br/>
+│   ├── Index.css<br/>
+│   └── main.jsx<br/>
+├── .gitignore<br/>
+├── eslint.config.js<br/>
+├── index.html<br/>
+├── package-lock.json<br/>
+├── package.json<br/>
+├── README.md<br/>
+├── vite.config.js<br/>
 
 ---
 
