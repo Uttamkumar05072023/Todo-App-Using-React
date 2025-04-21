@@ -82,7 +82,7 @@ const Body = () => {
             <h2 className='text-xl font-bold mb-4'>Add a Todo</h2>
             <div className="flex justify-center gap-4">
             <input type="text" className={`${isEmpty?"border-red-500":"border-green-500"} lg:w-1/2 w-3/4 bg-white rounded-md border-2 outline-none py-0.5 px-1`} value={todo} onChange={handleChange}/>
-            <button onClick={handleAdd} className='btn-st bg-violet-500 hover:bg-violet-800'>Save</button>
+            <button onClick={handleAdd} className='px-2 py-1 text-sm font-bold text-white rounded-md cursor-pointer bg-violet-500 hover:bg-violet-800'>Save</button>
             </div>
         </div>
         <label htmlFor="showFinished">
@@ -99,8 +99,8 @@ const Body = () => {
                         <div className={`${todo.isComplete?"line-through":""}`}>{todo.todo}</div>
                     </div>
                     <div className="buttons flex h-full">
-                        <button onClick={()=>handleEdit(todo.id)} className='btn-st bg-green-500 hover:bg-green-800 mr-2'><MdEdit /></button>
-                        <button onClick={()=>handleDelete(todo.id)} className='btn-st bg-red-500 hover:bg-red-800'><MdDelete /></button>
+                        <button onClick={()=>handleEdit(todo.id)} className='px-2 py-1 text-sm font-bold text-white rounded-md cursor-pointer bg-green-500 hover:bg-green-800 mr-2'><MdEdit /></button>
+                        <button onClick={()=>handleDelete(todo.id)} className='px-2 py-1 text-sm font-bold text-white rounded-md cursor-pointer bg-red-500 hover:bg-red-800'><MdDelete /></button>
                     </div>
                 </div>
             })}

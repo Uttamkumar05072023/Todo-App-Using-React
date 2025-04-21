@@ -1,10 +1,5 @@
 @import "tailwindcss";
-.nav-li{
-    @apply cursor-pointer hover:scale-110 font-semibold transition-all;
-}
-.btn-st{
-    @apply px-2 py-1 text-sm font-bold text-white rounded-md cursor-pointer;
-}
+
 body{
     background-color: aliceblue;
 }

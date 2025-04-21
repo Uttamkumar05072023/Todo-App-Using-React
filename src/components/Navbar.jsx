@@ -7,8 +7,8 @@ const Navbar = () => {
             <span className="font-bold text-xl mx-8">iTask</span>
         </div>
         <ul className='flex gap-8 mx-9'>
-            <li className="nav-li">Home</li>
-            <li className="nav-li">Your Tasks</li>
+            <li className="cursor-pointer hover:scale-110 font-semibold transition-all">Home</li>
+            <li className="cursor-pointer hover:scale-110 font-semibold transition-all">Your Tasks</li>
         </ul>
     </nav>
   )
