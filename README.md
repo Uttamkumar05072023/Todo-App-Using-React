@@ -22,7 +22,6 @@ A simple and responsive Todo application built with **React**. This app allows u
 
 ## 📁 Project Structure
 
-```plaintext
 Todo-App-Using-React/ 
 ├── public/
 ├── src/
